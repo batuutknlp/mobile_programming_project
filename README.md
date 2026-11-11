@@ -1,5 +1,14 @@
 # Mobile_Programming_Project
 
+## Team
+
+| Member | Student ID |
+| :--- | :--- |
+| Batuhan Tekinalp | 21058037 |
+| Amirarsalan Ebrahimisani | 22058908 |
+| Emre Can Korkmaz | 22058046 |
+| Melih Can Kaya | 23052006 |
+
 ## Problem
 
 When exploring an unfamiliar area with friends, finding a restaurant that suits everyone can take too long. General map searches offer useful listings and reviews, but it can be difficult to narrow and compare options against practical group needs—such as cuisine, budget, student discounts, Wi-Fi, power outlets, and opening status. Broad results and dense screens can make it harder to reach a quick, confident choice.
