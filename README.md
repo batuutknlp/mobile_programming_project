@@ -20,3 +20,6 @@ We’re designing an iOS restaurant-discovery experience that makes nearby optio
 ## Prototype data
 
 This university project focuses on the search experience and interface design. Depending on the implementation, the prototype may use sample data or data from a provider such as Google Places. The README and app should clearly distinguish demo data from live data and avoid implying that information is live when it is not.
+
+* 🎨 **Figma Project Link:**
+https://www.figma.com/design/3lFhLfhVABFA6w2YGV6NYB/mobilprogramlama?node-id=1-2&t=7du4AJk4Z7d8oAfr-1
